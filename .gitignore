@@ -274,3 +274,7 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+*.sqlite3
+__init__.*
+__pycache__
+wsgi.py
